@@ -5,6 +5,9 @@
   "keywords": [],
   "author": "Rob Brennan <rob@therobbrennan.com> (therobbrennan.com)",
   "license": "ISC",
+  "scripts": {
+    "djiparsetxt": "node node_modules/node-djiparsetxt/dist/node-djiparsetxt.js --help"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/TheRobBrennan/dji-flight-record-review.git"
