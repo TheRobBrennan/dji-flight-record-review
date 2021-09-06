@@ -6,7 +6,9 @@
   "author": "Rob Brennan <rob@therobbrennan.com> (therobbrennan.com)",
   "license": "ISC",
   "scripts": {
-    "djiparsetxt": "node node_modules/node-djiparsetxt/dist/node-djiparsetxt.js --help"
+    "djiparsetxt": "node node_modules/node-djiparsetxt/dist/node-djiparsetxt.js --help",
+    "djiparsetxt:mini-2": "node node_modules/node-djiparsetxt/dist/node-djiparsetxt.js dji/mini-2/DJIFlightRecord_2021-09-05_[19-23-47].txt",
+    "djiparsetxt:air-2S": "node node_modules/node-djiparsetxt/dist/node-djiparsetxt.js dji/air-2s/DJIFlightRecord_2021-09-05_[19-47-57].txt"
   },
   "repository": {
     "type": "git",
