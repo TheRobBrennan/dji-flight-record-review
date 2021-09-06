@@ -4,7 +4,7 @@ This repository explores if it's possible to parse and review flight data from m
 
 ## What am I currently flying?
 
-I have two (2) drones that I am flying at the moment - the [DJI Mini 2](https://www.dji.com/mini-2) and the [DJI Air 2S](https://www.dji.com/air-2s).
+I have two drones that I am flying at the moment - the [DJI Mini 2](https://www.dji.com/mini-2) and the [DJI Air 2S](https://www.dji.com/air-2s).
 
 ### DJI Mini 2
 
