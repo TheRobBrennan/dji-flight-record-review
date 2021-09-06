@@ -1,0 +1,16 @@
+{
+  "name": "dji-flight-log-review",
+  "version": "0.0.0",
+  "description": "",
+  "keywords": [],
+  "author": "Rob Brennan <rob@therobbrennan.com> (therobbrennan.com)",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheRobBrennan/dji-flight-log-review.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TheRobBrennan/dji-flight-log-review/issues"
+  },
+  "homepage": "https://github.com/TheRobBrennan/dji-flight-log-review#readme"
+}
