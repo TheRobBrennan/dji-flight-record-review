@@ -2,6 +2,22 @@
 
 This repository explores if it's possible to parse and review flight data from my [DJI](https://www.dji.com) drones using open source libraries.
 
+## What didn't work?
+
+### node-djiparsetxt
+
+My first experiment was to explore the [node-djiparsetxt](https://github.com/chrisvm/node-djiparsetxt) code available at [https://github.com/chrisvm/node-djiparsetxt](https://github.com/chrisvm/node-djiparsetxt).
+
+**SPOILER ALERT: I was not able to get it to work with `npx` when I tried doing `npx node-djiparsetxt <path/to/file.txt>`**
+
+I added the following scripts to explore [node-djiparsetxt](https://github.com/chrisvm/node-djiparsetxt):
+
+- `djiparsetxt` - This launches the `--help` command to see what options are possible for the command-line tool
+- `djiparsetxt:mini-2:failed-experiment` - This attempts to parse the flight record file for the [DJI Mini 2](https://www.dji.com/mini-2)
+- `djiparsetxt:air-2S:failed-experiment` - This attempts to parse the flight record file for the [DJI Air 2S](https://www.dji.com/air-2s)
+
+The current code for [node-djiparsetxt](https://github.com/chrisvm/node-djiparsetxt) does not work with these files. However, I have opened up an issue on GitHub at [Does not work for Mini 2 or Air 2S #22](https://github.com/chrisvm/node-djiparsetxt/issues/22) to report this finding.
+
 ## What am I currently flying?
 
 I have two drones that I am flying at the moment - the [DJI Mini 2](https://www.dji.com/mini-2) and the [DJI Air 2S](https://www.dji.com/air-2s).
