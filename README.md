@@ -12,7 +12,7 @@ My first experiment was to explore the [node-djiparsetxt](https://github.com/chr
 
 I added the following scripts to explore [node-djiparsetxt](https://github.com/chrisvm/node-djiparsetxt):
 
-- `djiparsetxt` - This launches the `--help` command to see what options are possible for the command line tool
+- `djiparsetxt` - This launches the `--help` command to see what options are possible for the command-line tool
 - `djiparsetxt:mini-2:failed-experiment` - This attempts to parse the flight record file for the [DJI Mini 2](https://www.dji.com/mini-2)
 - `djiparsetxt:air-2S:failed-experiment` - This attempts to parse the flight record file for the [DJI Air 2S](https://www.dji.com/air-2s)
 
