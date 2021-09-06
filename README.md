@@ -2,6 +2,17 @@
 
 This repository explores if it's possible to parse and review flight data from my [DJI](https://www.dji.com) drones using open source libraries.
 
+## The verdict?
+
+I still have not found a way to parse flight data for my [DJI Mini 2](https://www.dji.com/mini-2) and [DJI Air 2S](https://www.dji.com/air-2s).
+
+As of this writing (Monday, September 6th, 2021), I am still searching for libraries to process these log files - or guides discussing how to process these binary files.
+
+The best bet to process and view your flight data is to use [Airdata](https://airdata.com):
+
+![airdata/__screenshots__/airdata-01.png](airdata/__screenshots__/airdata-01.png)
+![airdata/__screenshots__/airdata-02.png](airdata/__screenshots__/airdata-02.png)
+
 ## What didn't work?
 
 ### node-djiparsetxt
