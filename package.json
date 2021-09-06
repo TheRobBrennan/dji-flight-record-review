@@ -1,5 +1,5 @@
 {
-  "name": "dji-flight-log-review",
+  "name": "dji-flight-record-review",
   "version": "0.0.0",
   "description": "",
   "keywords": [],
@@ -7,10 +7,10 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TheRobBrennan/dji-flight-log-review.git"
+    "url": "git+https://github.com/TheRobBrennan/dji-flight-record-review.git"
   },
   "bugs": {
-    "url": "https://github.com/TheRobBrennan/dji-flight-log-review/issues"
+    "url": "https://github.com/TheRobBrennan/dji-flight-record-review/issues"
   },
-  "homepage": "https://github.com/TheRobBrennan/dji-flight-log-review#readme"
+  "homepage": "https://github.com/TheRobBrennan/dji-flight-record-review#readme"
 }
