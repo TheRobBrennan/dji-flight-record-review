@@ -6,7 +6,11 @@ This repository explores if it's possible to parse and review flight data from m
 
 I still have not found a way to parse flight data for my [DJI Mini 2](https://www.dji.com/mini-2) and [DJI Air 2S](https://www.dji.com/air-2s).
 
-As of this writing (Monday, September 6th, 2021), I am still searching for libraries to process these log files - or guides discussing how to process these binary files.
+As of Monday, September 6th, 2021, I am still searching for libraries to process these log files - or guides discussing how to process these binary files.
+
+As of Thursday, September 9th, 2021, I decided to bite the bullet and see if posting in the [DJI Developer Forums](https://djisdksupport.zendesk.com/hc/en-us/community/posts/4406193231641-How-to-parse-DJI-Mini-2-and-DJI-Air-2S-flight-records-with-Node-js-or-JavaScript) will result in any forward progress:
+
+![dji/__screenshots__/Screen%20Shot%202021-09-09%20at%2010.54.58%20AM.png](dji/__screenshots__/Screen%20Shot%202021-09-09%20at%2010.54.58%20AM.png)
 
 The best bet to process and view your flight data is to use [Airdata](https://airdata.com):
 
