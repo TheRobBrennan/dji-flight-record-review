@@ -15,12 +15,6 @@ The best bet to process and view your flight data is to use [Airdata](https://ai
 
 ### UPDATES
 
-#### Thursday, September 9th, 2021
-
-As of Thursday, September 9th, 2021, I decided to bite the bullet and see if posting in the [DJI Developer Forums](https://djisdksupport.zendesk.com/hc/en-us/community/posts/4406193231641-How-to-parse-DJI-Mini-2-and-DJI-Air-2S-flight-records-with-Node-js-or-JavaScript) will result in any forward progress:
-
-![dji/__screenshots__/Screen%20Shot%202021-09-09%20at%2010.54.58%20AM.png](dji/__screenshots__/Screen%20Shot%202021-09-09%20at%2010.54.58%20AM.png)
-
 #### Monday, September 20th, 2021
 
 As of Monday, September 20th, 2021, I was pointed in the direction of [this post](https://djisdksupport.zendesk.com/hc/en-us/articles/4404500498713--When-the-MSDK-for-Mini-2-Mini-SE-and-Air-2S-will-be-released-?fbclid=IwAR3RPodE0Q8jteD9nnk0CDaHU6bzDNcumcPjdpFaRm6cB3I6qpf_-Rl5s5U) on the [DJI Developer Forums](https://djisdksupport.zendesk.com/hc/en-us/articles/4404500498713--When-the-MSDK-for-Mini-2-Mini-SE-and-Air-2S-will-be-released-?fbclid=IwAR3RPodE0Q8jteD9nnk0CDaHU6bzDNcumcPjdpFaRm6cB3I6qpf_-Rl5s5U).
@@ -28,6 +22,12 @@ As of Monday, September 20th, 2021, I was pointed in the direction of [this post
 ![dji/__screenshots__/Screen%20Shot%202021-09-20%20at%2015.17.24%20PM.png](dji/__screenshots__/Screen%20Shot%202021-09-20%20at%2015.17.24%20PM.png)
 
 I'm encouraged to see that there are plans to make this data available for parsing and review.
+
+#### Thursday, September 9th, 2021
+
+As of Thursday, September 9th, 2021, I decided to bite the bullet and see if posting in the [DJI Developer Forums](https://djisdksupport.zendesk.com/hc/en-us/community/posts/4406193231641-How-to-parse-DJI-Mini-2-and-DJI-Air-2S-flight-records-with-Node-js-or-JavaScript) will result in any forward progress:
+
+![dji/__screenshots__/Screen%20Shot%202021-09-09%20at%2010.54.58%20AM.png](dji/__screenshots__/Screen%20Shot%202021-09-09%20at%2010.54.58%20AM.png)
 
 ## What didn't work?
 
