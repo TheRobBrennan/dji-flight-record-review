@@ -15,6 +15,32 @@ The best bet to process and view your flight data is to use [Airdata](https://ai
 
 ### UPDATES
 
+#### Friday, November 4th, 2022
+
+Hot damn! Nine days ago - Wednesday, October 26th, 2022 - I received a reply from DJI to my post on the DJI SDK forum at [https://sdk-forum.dji.net/hc/en-us/community/posts/4406193231641-How-to-parse-DJI-Mini-2-and-DJI-Air-2S-flight-records-with-Node-js-or-JavaScript?page=1#community_comment_12186290714777](https://sdk-forum.dji.net/hc/en-us/community/posts/4406193231641-How-to-parse-DJI-Mini-2-and-DJI-Air-2S-flight-records-with-Node-js-or-JavaScript?page=1#community_comment_12186290714777):
+
+The last I did anything with DJI flight record parsing was on Monday, September 20th, 2021 - which would have been one year, one month, and five days before the response from DJI. Was this too good to be true?
+
+> Dear Customer, Did you got the parsing Lib for DJI Log file(.txt format) ? Thanks DJI SDK Group
+
+Could it be? I responded with the following:
+
+> Hi there! No, I did not have any luck. It seems the logs for the Mini 2 and Air 2S are encrypted and unable to be parsed.
+>
+> Is there an updated library where I could parse those TXT files? I can see them on my phone, and Airdata can parse them as an example, but copying and trying to parse one of those logs without some decryption seems like it isn't doable.
+>
+> Is there a JavaScript library I could use to parse these files that you're aware of?
+
+Much to my pleasant surprise, DJI responded (~19 hours ago as of this writing) with:
+
+> Dear Customer, I could provide the latest parsing lib which is C++ based, please read carefully about our "Flight Record Parsing API License Agreement" here: https://developer.dji.com/cn/policies/flight_record/ , if you fully agree with it please reply "I represent that I have the authority to bind XXX(Company name) to this Agreement, and I fully understand and agree with the Flight Record Parsing API License Agreement", this is the first necessary step to access to our Parsing Lib, after this, our developer could start to send you the open sourced lib and "readme & manual" of APIs which will teach you how to implement it in your server. Feel free to reach out to me for any help, thanks! Thanks DJI SDK Group
+
+I reviewed the license agreement, and everything appeared to be above board. I responded with:
+
+> I represent that I have the authority to bind The Rob Brennan (sole proprietorship) to this Agreement, and I fully understand and agree with the Flight Record Parsing API License Agreement
+
+Let's see if I can kick the dust off this project and parse my logs. Fingers crossed 🤞
+
 #### Monday, September 20th, 2021
 
 As of Monday, September 20th, 2021, I was pointed in the direction of [this post](https://djisdksupport.zendesk.com/hc/en-us/articles/4404500498713--When-the-MSDK-for-Mini-2-Mini-SE-and-Air-2S-will-be-released-?fbclid=IwAR3RPodE0Q8jteD9nnk0CDaHU6bzDNcumcPjdpFaRm6cB3I6qpf_-Rl5s5U) on the [DJI Developer Forums](https://djisdksupport.zendesk.com/hc/en-us/articles/4404500498713--When-the-MSDK-for-Mini-2-Mini-SE-and-Air-2S-will-be-released-?fbclid=IwAR3RPodE0Q8jteD9nnk0CDaHU6bzDNcumcPjdpFaRm6cB3I6qpf_-Rl5s5U).
