@@ -15,6 +15,12 @@ The best bet to process and view your flight data is to use [Airdata](https://ai
 
 ### UPDATES
 
+#### Friday, November 11th, 2022
+
+DJI Developer Support sent me a flight record parsing library as promised. Thank you, DJI.🎉
+
+I've consolidated my example DJI flight record data files into a new `dji/example-flight-records` folder.
+
 #### Friday, November 4th, 2022
 
 Hot damn! Nine days ago - Wednesday, October 26th, 2022 - I received a reply from DJI to my post on the DJI SDK forum at [https://sdk-forum.dji.net/hc/en-us/community/posts/4406193231641-How-to-parse-DJI-Mini-2-and-DJI-Air-2S-flight-records-with-Node-js-or-JavaScript?page=1#community_comment_12186290714777](https://sdk-forum.dji.net/hc/en-us/community/posts/4406193231641-How-to-parse-DJI-Mini-2-and-DJI-Air-2S-flight-records-with-Node-js-or-JavaScript?page=1#community_comment_12186290714777):
