@@ -15,6 +15,10 @@ The best bet to process and view your flight data is to use [Airdata](https://ai
 
 ### UPDATES
 
+#### Friday, July 28th, 2023
+
+I'm feeling pretty optimistic! Over the past week, there has been some noticeable activity on the [GitHub issue](https://github.com/TheRobBrennan/dji-flight-record-review/issues/10) I created for this repo at [https://github.com/TheRobBrennan/dji-flight-record-review/issues/10](https://github.com/TheRobBrennan/dji-flight-record-review/issues/10). I'd love to give a shout-out to [mcihadarslanoglu](https://github.com/mcihadarslanoglu) rekindling the flame by inquiring if there has been any update on this front - and for [howff](https://github.com/howff) pointing to the updated code at [https://github.com/dji-sdk/FlightRecordParsingLib](https://github.com/dji-sdk/FlightRecordParsingLib). Both people collaborated on getting code to work assuming you have an API key from DJI. I'm excited to see if I can make it work on my 2021 14" MacBook Pro with its  M1 Max silicon.
+
 #### Friday, November 11th, 2022
 
 DJI Developer Support sent me a flight record parsing library as promised. Thank you, DJI.🎉
