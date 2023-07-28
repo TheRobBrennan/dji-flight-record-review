@@ -1,5 +1,0 @@
-iOS
-https://github.com/sinofool/build-openssl-ios/
-
-cd <src dir>
-./build_openssl_dist
