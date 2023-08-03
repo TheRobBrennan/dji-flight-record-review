@@ -1,7 +1,7 @@
 {
   "name": "dji-flight-record-review",
   "version": "0.0.0",
-  "description": "",
+  "description": "An example project to parse DJI Flight Record data from my drones using the DJI FlightRecordParsingLib at https://github.com/dji-sdk/FlightRecordParsingLib",
   "keywords": [],
   "author": "Rob Brennan <rob@therobbrennan.com> (therobbrennan.com)",
   "license": "ISC",
