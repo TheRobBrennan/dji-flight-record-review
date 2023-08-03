@@ -16,8 +16,5 @@
   "bugs": {
     "url": "https://github.com/TheRobBrennan/dji-flight-record-review/issues"
   },
-  "homepage": "https://github.com/TheRobBrennan/dji-flight-record-review#readme",
-  "dependencies": {
-    "node-djiparsetxt": "^0.2.12"
-  }
+  "homepage": "https://github.com/TheRobBrennan/dji-flight-record-review#readme"
 }
