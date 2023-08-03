@@ -6,8 +6,8 @@
   "author": "Rob Brennan <rob@therobbrennan.com> (therobbrennan.com)",
   "license": "ISC",
   "engines": {
-    "node": "~14.17.4",
-    "npm": "6.14.14"
+    "node": "~18.16.0",
+    "npm": "~9.8.1"
   },
   "repository": {
     "type": "git",
