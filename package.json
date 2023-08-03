@@ -9,6 +9,10 @@
     "node": "~18.16.0",
     "npm": "~9.8.1"
   },
+  "scripts": {
+    "open:repo": "open https://github.com/TheRobBrennan/dji-flight-record-review",
+    "open:repo:dji": "open https://github.com/dji-sdk/FlightRecordParsingLib"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/TheRobBrennan/dji-flight-record-review.git"
